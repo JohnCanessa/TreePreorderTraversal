@@ -5,7 +5,7 @@ https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?h_r=intern
 
 A description of my approach may be found in my blog using the following link:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/07/20/tree-preorder-traversal/
 
 Enjoy;
 
